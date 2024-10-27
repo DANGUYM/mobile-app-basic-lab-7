@@ -1,0 +1,10 @@
+npx create-expo-app gk-app --template blank
+cd gk-app
+npm start
+
+
+npm install react-native-vector-icons
+eye     eye-off     home    mail    menu    arrow-left/right/up/down    heart   lock    unlock  info    help-circle     search  star
+
+
+npm install react-native-dialog
